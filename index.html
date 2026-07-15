@@ -247,11 +247,17 @@
         (function() {
             'use strict';
 
+            // ============================================================
+            // CONFIGURAÇÕES - CORRIGIDO PARA poptop
+            // ============================================================
             const GENERO = 'POP';
             const COR = '#ff3366';
             const JSON_URL = 'pop.json';
-            const BASE_URL = 'https://raw.githubusercontent.com/radiolojasjc-hub/pop/refs/heads/main/';
+            const BASE_URL = 'https://raw.githubusercontent.com/radiolojasjc-hub/poptop/refs/heads/main/';
 
+            // ============================================================
+            // VARIÁVEIS
+            // ============================================================
             let musicas = [];
             let currentPlaylist = [];
             let currentIndex = 0;
@@ -295,6 +301,9 @@
             const backgroundAudio = document.getElementById('backgroundAudio');
             const menuPopup = document.getElementById('menuPopup');
 
+            // ============================================================
+            // FUNÇÕES AUXILIARES
+            // ============================================================
             function showNotification(msg, d = 1500) {
                 notification.textContent = msg;
                 notification.classList.add('show');
