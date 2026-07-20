@@ -105,5 +105,21 @@
 {"id":490,"artist":"Player","title":"Baby Come Back P","genero":"POP","src":"Player_Baby_Come_Back_P.m4a"},
 {"id":491,"artist":"Valerie","title":"At BBC P","genero":"POP","src":"Valerie_Live_At_BBC_P.m4a"},
 {"id":492,"artist":"Heart","title":"Alone M A","genero":"POP","src":"Heart_Alone_M4A.m4a"},
-{"id":493,"artist":"Phil Collins","title":"Another Day In Paradise","genero":"POP","src":"Phil_Collins_-_Another_Day_In_Paradise.m4a"}
+{"id":493,"artist":"Phil Collins","title":"Another Day In Paradise","genero":"POP","src":"Phil_Collins_-_Another_Day_In_Paradise.m4a"},
+  {"id":529,"artist":"America","title":"A-Horse-With-No","genero":"MPB","src":"America_A-Horse-With-No.opus"},
+{"id":530,"artist":"Annie-Lennox","title":"Why","genero":"MPB","src":"Annie-Lennox_Why.opus"},
+{"id":531,"artist":"Bob-Dylan","title":"Hurricane","genero":"MPB","src":"Bob-Dylan_Hurricane.opus"},
+{"id":532,"artist":"Coldplay","title":"Paradise","genero":"MPB","src":"Coldplay_Paradise.opus"},
+{"id":533,"artist":"Lana-Del-Rey","title":"Summertime-Sadness","genero":"MPB","src":"Lana-Del-Rey_Summertime-Sadness.opus"},
+{"id":534,"artist":"Mr","title":"Mister Broken-Wings","genero":"MPB","src":"Mr_Mister_Broken-Wings.opus"},
+{"id":535,"artist":"My-Father","title":"s-Eyes","genero":"MPB","src":"My-Father_s-Eyes.opus"},
+{"id":536,"artist":"Phil","title":"Collins Do-You-Remember","genero":"MPB","src":"Phil_Collins_Do-You-Remember.opus"},
+{"id":537,"artist":"Simply-Red","title":"Say-You-Love-Me","genero":"MPB","src":"Simply-Red_Say-You-Love-Me.opus"},
+{"id":538,"artist":"The-Cranberries","title":"Linge","genero":"MPB","src":"The-Cranberries_Linge.opus"},
+{"id":539,"artist":"Mirrors-Justin","title":"Timberlake","genero":"MPB","src":"Mirrors-Justin_Timberlake.m4a"},
+{"id":540,"artist":"Patrick","title":"SwayzeShe-s-Like -he-Wind","genero":"MPB","src":"Patrick_SwayzeShe-s-Like_-he-Wind.m4a"},
+{"id":541,"artist":"Paul-Young","title":"Everytime You Go Away P","genero":"MPB","src":"Paul-Young_Everytime_You_Go_Away_P.m4a"},
+{"id":542,"artist":"Ray","title":"Parker Jr Raydio A Woman Needs Love P","genero":"MPB","src":"Ray_Parker_Jr_Raydio_A_Woman_Needs_Love_P.m4a"},
+{"id":543,"artist":"Wicked","title":"Game-Single-","genero":"MPB","src":"Wicked_Game-Single-Edit.m4a"},
+{"id":544,"artist":"Londonbeat","title":"I ve Been Thinking About You","genero":"MPB","src":"Londonbeat_I_ve_Been_Thinking_About_You.m4a"}
 ]
